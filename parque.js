@@ -3,7 +3,6 @@ let btnFinalizar = document.getElementById('btn-2');
 
 // arrays vacios
 let entradas = [];
-
 let compra = [];
 
 btnAgregar.onclick = function() {
